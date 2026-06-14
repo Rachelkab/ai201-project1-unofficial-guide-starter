@@ -1,0 +1,61 @@
+Professor: Tom Stephens
+Department: Computer Science
+School: Brigham Young University
+RMP URL: https://www.ratemyprofessors.com/professor/3064932
+Overall Rating: 3.3 / 5
+Total Ratings: 17
+Would Take Again: 53%
+Average Difficulty: 3.1
+
+--- REVIEWS ---
+
+Course: CS235 | Date: Apr 29, 2026 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Dr. Stephens is a great guy. He's very straightforward with his expectations. This class is harder than CS 111/142, but he rewards staying on top of the assignments and will give a small amount of extra credit for doing them early. The final this semester was an in-class coding project that was very manageable. He is very accessible and inspiring.
+
+Course: CS235 | Date: Apr 27, 2026 | Quality: 4.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+I really liked Dr. Stephens. It's really clear that he thoroughly understands the topics that he is teaching, even though he never got a degree in computer science. He also always posts the slides for each lecture and has video presentations from when he taught CS236 online.
+
+Course: CS111 | Date: Apr 27, 2026 | Quality: 3.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+The online section is not forgiving in the slightest. You have to do well on everything to do well in the class. Fortunately they let you turn in everything late for full credit and are quick graders. The time commitment is really inconsistent — some weeks taking an hour or two and other weeks taking ten hours of work.
+
+Course: CS111 | Date: Apr 15, 2026 | Quality: 2.0 | Difficulty: 4.0 | Grade: F
+Grading in the online section is rough. You must meet a minimum in each category and your lowest category becomes your final grade. Teaching was okay, but you'll need solid Python skills to succeed. I did not do well on 2 Skill Assessments so I failed the class. Not very forgiving.
+
+Course: CS235 | Date: Dec 3, 2025 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Most CS professors I've had overcomplicate their lectures and accidentally talk about things outside of the course curriculum that I don't understand. Dr. Stephens is very good at giving clear lectures that follow the course content. He was very willing to answer questions and would sometimes work out the homework on the board during lectures.
+
+Course: CS111 | Date: Nov 25, 2025 | Quality: 3.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+I took CS111 online and it was probably a lot better to do than in person. You have to have some programming experience or this class will eat you alive. Also, the online lectures were a little hard to follow and sometimes didn't leave you very prepped for assignments and tests. Lots of work to understand well.
+
+Course: CS235 | Date: Nov 3, 2025 | Quality: 2.0 | Difficulty: 4.0 | Grade: D+
+A change to the midterms and final exam was implemented during my specific semester that definitely hurt my grade. The exam involved implementing a data structure with no notes instead of doing a multiple choice exam. I've heard some professors don't do exams like this.
+
+Course: CS111 | Date: Oct 27, 2025 | Quality: 2.0 | Difficulty: 2.0 | Grade: A
+In all honesty the class content is pretty easy, but the professor and TAs made it so much more difficult. Dr. Stephens is a smart guy but he didn't explain the topics and code very well. Attending lectures honestly didn't help me learn the content.
+
+Course: CS111 | Date: Jul 28, 2025 | Quality: 2.0 | Difficulty: 4.0 | Would Take Again: No
+Tom Stephens is very knowledgeable and kind, but this online course is awful. The lecture videos are difficult to follow, assignments often feel unrelated to the material taught in the videos, so be prepared to teach yourself.
+
+Course: CS235 | Date: Jun 18, 2025 | Quality: 3.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+His lectures were boring, but the assignments weren't that bad — you can submit as much as you want and he has all of his lectures posted. I got 103 in the class. I would definitely recommend taking it during either spring or summer term by itself.
+
+Course: CS111 | Date: Jun 17, 2025 | Quality: 5.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes
+Very kind and inspirational professor. Awesome teacher.
+
+Course: CS111 | Date: Apr 29, 2025 | Quality: 3.0 | Difficulty: 2.0 | Grade: A
+The class was poorly organized. Instructions for labs, homework, and projects did not instruct well at all — even had typos and grammar errors. The last day of classes had the two biggest, most difficult projects of the semester due at the same time.
+
+Course: CS235 | Date: Apr 21, 2025 | Quality: 1.0 | Difficulty: 2.0
+CS 235 online was HORRIBLY organized. Assignments not published or out of order, instructions that were wrong, and autograders that just didn't work. Once I reported the problems on the CS Discord, it would take several days to fix. The content isn't hard, but the class was like banging your head into the wall.
+
+Course: CS235 | Date: Apr 21, 2025 | Quality: 3.0 | Difficulty: 5.0 | Grade: A-
+The Canvas course was horribly designed. At one point a semester long project changed from being extra credit to required, 3 weeks before being due with no remorse given. The final was a blind live coding challenge which just required rote memorization, as no help in debugging or outside resources was allowed.
+
+Course: CS235 | Date: Apr 12, 2025 | Quality: 4.0 | Difficulty: 5.0 | Grade: B
+I think this teacher was mostly trying to teach us how to memorize instead of how to be an actual programmer. There were several live-coding exams where we were not allowed to look at our notes or use any outside resources at all. That is not what programmers do in the real world.
+
+Course: CS235 | Date: Apr 11, 2025 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Dr. Stephens really knows his stuff. His lectures are great, and if you don't want to attend the lectures he posts videos online. The TA lab is a great resource for the class, and Dr. Stephens has office hours all the time.
+
+Course: CS111 | Date: Dec 20, 2024 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+CS111 is a great class. It has the same curriculum as the equivalent at UC Berkeley, which has a top 5 CS program in the nation. If you ever want to do coding, do not use ChatGPT for this course. You need to really understand this content and be able to do it all on your own for your long term success. It's an easy A if you care to work a bit.

@@ -1,0 +1,124 @@
+Professor: Joseph Ditton
+Department: Computer Science
+School: Utah State University
+RMP URL: https://www.ratemyprofessors.com/professor/2590785
+Overall Rating: 4.8 / 5
+Total Ratings: 37
+Would Take Again: 95%
+Average Difficulty: 2.6
+
+--- REVIEWS ---
+
+Course: CS2610 | Date: May 4, 2026 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+He was very good at explaining the concepts needed for the course and had applicable assignments, and also taught us how to properly use AI in the industry. Unfortunately, the AI agents he uses to create and grade the exams seem to be looking for something specific and the questions are vaguely and often redundantly worded.
+
+Course: CS4610 | Date: Mar 23, 2026 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Ditton is easily the best professor in the department. He cares about what he teaches, and knows his stuff. I've taken CS2410, 2610, and 4610. He's a lot more focused on helping you learn than preparing you for a test. The assignments give you experience, and you have plenty of time to add extra features and explore the frameworks if you want.
+
+Course: CS1440 | Date: Jan 5, 2026 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+This class is easy to sneak through without fully understanding or learning the curriculum. DO THE WORK! Cool guy. He's a great teacher, but you NEED to be studying the textbook in your own time to fully conquer this class. I could follow along in the lectures but couldn't fully understand everything without doing some studying outside of class.
+
+Course: CS2610 | Date: Dec 22, 2025 | Quality: 5.0 | Difficulty: 1.0 | Grade: A+ | Would Take Again: Yes
+Class was very easy for me, spent minimal time on assignments, exams were open notes. Ended with a 104%.
+
+Course: CS2610 | Date: Dec 14, 2025 | Quality: 3.0 | Difficulty: 3.0 | Grade: B
+The class recordings were all from about 3 years ago. If you don't use Copilot to help you will be absolutely lost.
+
+Course: CS2610 | Date: Mar 21, 2025 | Quality: 5.0 | Difficulty: 1.0 | Grade: A | Would Take Again: Yes
+Such an amazing professor who is very approachable and very helpful. He explains the concepts very well in class and will spend the whole lecture answering questions.
+
+Course: CS1410 | Date: Jan 17, 2025 | Quality: 5.0 | Difficulty: 1.0 | Grade: A+ | Would Take Again: Yes
+Was able to get through the class without taking any notes. There are three tests throughout the class, all were online and open book. The whole course is programming, every lecture to every assignment.
+
+Course: CS1410 | Date: Sep 11, 2024 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+He is really approachable. He has a lot of humility when he gets something wrong, though he seldom does — his knowledge is incredibly extensive. His lectures are fun and engaging because he gets really into what he's talking about and really cares about being as explicit, clear, and comprehensive as possible. He is always open to questions.
+
+Course: CS2410 | Date: Jul 18, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+This class was very informative and well-done. The assignments were a good balance of fun and challenging. He often taught with documentation which is good to get used to. The only test was a bare-minimum test at the end which you get infinite attempts for and you need like a 90% to pass the class.
+
+Course: CS1410 | Date: May 1, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Just an amazing, funny, super caring dude. I absolutely adore Professor Ditton and hope to take more classes from him in the future. His office hours are helpful, he makes everyone feel welcome, and there were many times in class where he made me laugh out loud. Great guy, even better professor. You won't regret taking his class!
+
+Course: CS2610 | Date: Apr 26, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+Ditton is an amazing teacher who truly cares about his students and their learning ability. Some of the concepts are hard but he will work with you to make sure you understand everything and get an A in the class.
+
+Course: CS2610 | Date: Nov 15, 2023 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Good. Cares about students and is accessible outside of class.
+
+Course: CS2410 | Date: Sep 15, 2023 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+Very good teacher. Cares about your learning. Fairly easy class but has lots of learning. Loved his grading scheme — it made me want to learn but not be terrified about the future.
+
+Course: CS1440 | Date: Sep 15, 2023 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Awesome professor. Clear grading criteria, gives good feedback, and is very respected by students.
+
+Course: CS3200 | Date: May 5, 2023 | Quality: 2.0 | Difficulty: 4.0 | Grade: D
+Mobile dev only dealt with Android and I had an iPhone. The only Android emulators that worked took 15+ minutes to register that a single button was clicked. Ditton looked for a device I could borrow but couldn't find any. It was physically impossible for me to pass and I didn't know until it was too late to drop.
+
+Course: CS2410 | Date: Jan 20, 2023 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+Ditton's knowledge of the content is clear. Beyond that, he demonstrates how the particular concepts we execute in class are applied in other frameworks and realms of computer science. He is always giving tips about current events in the world of technology with careers, new tech, or a random but intriguing trend.
+
+Course: CS4610 | Date: Jan 12, 2023 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Joseph is fantastic. Easily one of the top professors at USU. Everything he teaches is useful and applicable. You could leave this class knowing everything you need to get started on a personal project or get a job. This class actually did get me a job. He is available outside of class and is extremely helpful.
+
+Course: CS2410 | Date: Jan 6, 2023 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Superb class, superb lecturer. Not many professors have the chops to do live coding demonstrations, but Joseph Ditton knocks it out of the park. The constant changing of the programming language for this course is annoying, but that's the life of a programmer.
+
+Course: CS1440 | Date: Dec 9, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Really great teacher and one of the best classes I've taken at USU. Basically everything we learned I was able to use at work and in my other classes. No tests — this was a project based class. The projects aren't super hard, but they are time consuming, so start early.
+
+Course: CS2410 | Date: Dec 9, 2022 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Such a great teacher. Joseph made all the lectures fun and it's clear he's very passionate as a teacher. The class itself was pretty easy — there were no tests or quizzes, just five projects to complete throughout the semester. Start early and you'll be fine.
+
+Course: CS2410 | Date: Nov 23, 2022 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+Professor Ditton's class was amazing. He codes live in class to show the step-by-step process and explains what he's doing in real time. He has office hours and makes an effort to help students answer any questions they have. The programs were interesting, and it was easy to think of ways the skills learned could be applied outside of class.
+
+Course: CS2410 | Date: Nov 15, 2022 | Quality: 5.0 | Difficulty: 2.0 | Grade: A- | Would Take Again: Yes
+Ditton does a great job of teaching you exactly what you need to know before asking you to do it on an assignment. Assignments are just doing something very similar to what he did as an example in lecture. I find this way of learning to code the most accessible. Other professors I have taken expect you to basically teach yourself. Highly recommend!
+
+Course: CS5700 | Date: Oct 6, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+This was probably the most challenging class I've taken from Ditton, but it definitely helped me mature as a programmer and understand OOP better. Always willing to help and both he and the TA give great feedback.
+
+Course: CS4610 | Date: Oct 6, 2022 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+3rd class taught by him. We had several group projects throughout the class and he is still as helpful and caring to his students as always. No tests.
+
+Course: CS2410 | Date: Jun 17, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+I thoroughly enjoyed taking this class from Professor Ditton. Easily my favorite CS class so far at Utah State. I wish all the other CS professors could take a page out of his book. So much less stressful than my other classes, and yet I feel like I learned so much more. Overall, everything that you needed to have, he provided in the lectures.
+
+Course: CS2410 | Date: May 3, 2022 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Ditton was awesome! He taught me something that I actually enjoyed which was app development and he taught it very well! He also had tutorial videos that were relevant to your assignments so if you ever got stuck, you could watch those and get back on track easily! He makes class super fun and is a fair grader.
+
+Course: CS2410 | Date: Apr 20, 2022 | Quality: 5.0 | Difficulty: 2.0 | Grade: A- | Would Take Again: Yes
+The CS2410 class was pretty easy. There are programming projects to complete, about once every 2 weeks, and I was able to get them done within 1-2 days of working on them. Everything you need to know is in the videos — easy to understand.
+
+Course: CS2410 | Date: Apr 4, 2022 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+Super happy guy who you can tell genuinely cares about his students. The nature of the class was also super cool — it's nice to see how apps are built, and he shows you everything you need to complete his assignments. Lectures were all prerecorded which is great if you need to rewatch a concept multiple times.
+
+Course: CS2410 | Date: Jan 4, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Professor Ditton is the best professor I have had at Utah State, without question. Both his lectures and easily accessible prerecorded videos contain all the information you need to complete the programming assignments, which are the only work given in the class. He is fun, helpful, and eager to answer questions. I'd recommend any class he teaches.
+
+Course: CS3200 | Date: Dec 17, 2021 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+Professor Ditton doesn't mess around when it comes to his classes — in a great way. He makes all of the material accessible online so you just have to look for it. If you run into any problems, he is available and willing to help without making you feel like an idiot. This is my 2nd class from Ditton and I hope to take many more.
+
+Course: CS3200 | Date: Dec 16, 2021 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+Professor Ditton is a true gem among professors. The truly amazing thing is the way he structures his courses — he has tutorial videos on Canvas where he all but walks you through how to complete your homework assignments, and he has no tests. I can say I truly had a better learning experience from him than any other professor I have ever had.
+
+Course: CS2410 | Date: Nov 8, 2021 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+I've taken several classes from him and he is fantastic!
+
+Course: CS1410 | Date: Nov 6, 2021 | Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+He's a solid teacher. The class itself wasn't too bad. There was 1 assignment due about every week and a half. They weren't overly easy but also not overly difficult. All tests were open note and internet. Would recommend.
+
+Course: CS1410 | Date: May 2, 2021 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+Best CS professor I have ever had. Very very nice person who made sure to answer EVERY question on Zoom lectures. Quizzes are pretty easy, and tests are a breeze as long as you don't completely slack off. Assignments are about once every week or so but only took me around an hour to complete. Very clear assignment instructions and grading.
+
+Course: CS2410 | Date: Dec 9, 2020 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Professor Ditton was a great professor! I really enjoyed taking GUIs from him. He's always willing to help and answer any questions that people have. Would definitely take a class from him again!
+
+Course: CS3200 | Date: Nov 14, 2020 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+He knows the material really well and is good at teaching it. The first two assignments were really simple and then they got quite difficult, but that was probably because I didn't know JavaScript super well. Going to office hours was really helpful. Lectures were enjoyable, and I really felt like I learned a lot.
+
+Course: CS1410 | Date: Oct 7, 2020 | Quality: 4.0 | Difficulty: 4.0 | Would Take Again: Yes
+Professor Ditton wants his students to succeed. He is super easy to get a hold of outside of class and at office hours. He is more than willing to help you with problems you have with the assignments. He also gives a lot of real life advice. Only drawback is that he sometimes goes off on topics that are not super relevant.
+
+Course: CS3200 | Date: Apr 28, 2020 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+One of the best professors I've had. Lectures were clear and relevant, and he always encouraged questions. He was extremely available by email or office hours. You can tell he really cared about our success. The material was tough, but he taught it extremely well.

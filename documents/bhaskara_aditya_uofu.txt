@@ -1,0 +1,97 @@
+Professor: Aditya Bhaskara
+Department: Computer Science
+School: University of Utah
+RMP URL: https://www.ratemyprofessors.com/professor/2252159
+Overall Rating: 2.3 / 5
+Total Ratings: 28
+Would Take Again: 32%
+Average Difficulty: 3.3
+
+--- REVIEWS ---
+
+Course: CS3130 | Date: May 7, 2026 | Quality: 1.0 | Difficulty: 4.0 | Grade: B+
+5 in-person quizzes worth 30% of your grade, every other week, which were exhausting. He is generous with grading homework but harsh when grading quizzes and exams. His wording on his exams makes them difficult but the actual content isn't. His TAs and himself were always late yet they expect students to be held to a higher standard.
+
+Course: CS3130 | Date: May 3, 2026 | Quality: 1.0 | Difficulty: 2.0 | Grade: A-
+Pros: HW is 50% of grade. Cons: Was late to every lecture. Refused to provide answer key for practice problems he wrote for quizzes. Vital info for the quizzes and final was often not released until late the night before. Didn't release important resources until being informed they didn't exist. Wasn't communicative outside of class.
+
+Course: CS3130 | Date: May 1, 2026 | Quality: 1.0 | Difficulty: 4.0 | Grade: B
+Huge disconnect between the lectures and the quizzes and final exam — topics he never taught popped up a lot in the assignments. Refuses to provide answer keys to practice problems. Course grading system was broken the whole semester despite having 4 TAs. I could not tell you what of value I have learned from this class.
+
+Course: CS3130 | Date: Apr 20, 2026 | Quality: 2.0 | Difficulty: 2.0 | Grade: B+
+Just not a very good lecturer. Stutters a lot, and doesn't engage the class very well. Learning through the recommended textbook is viable. He's quite accessible outside of class, and actively responds to students online. There are bi-weekly quizzes, so make sure to keep up with the material.
+
+Course: CS4150 | Date: Oct 22, 2025 | Quality: 5.0 | Difficulty: 5.0 | Grade: B+ | Would Take Again: Yes
+If you genuinely want to study algorithms, take his class. Most reviewers here don't know who he actually is. Just know, when it comes to algorithms, it doesn't get any better than this. He is on the top of the chain.
+
+Course: CS4150 | Date: Jan 3, 2025 | Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+Effectively a "Leetcode" class. Has programming assignments akin to Leetcode questions, and theory assignments that are more in line with his lectures. Lectures can be boring and honestly unnecessary — you usually learn while doing homework. Theory heavy class with some helpful practical examples. Nice and funny, but his curriculum can be disorganized.
+
+Course: CS4150 | Date: Jan 2, 2025 | Quality: 1.0 | Difficulty: 5.0 | Grade: B
+Very bad at teaching. His lectures made no sense and he was practically winging it every day. I went to the TAs for help one day and even they weren't sure how to solve the theory problem. The only assignments that made sense were the programming assignments. Everything else was unorganized and confusing.
+
+Course: CS4150 | Date: Dec 23, 2024 | Quality: 4.0 | Difficulty: 3.0 | Would Take Again: Yes
+His exams are reasonable, but the course is boring. The TA is very helpful. Will give exam curves. Overall good.
+
+Course: CS4150 | Date: Dec 22, 2024 | Quality: 1.0 | Difficulty: 4.0 | Grade: B+
+His TAs literally taught me any and all meaningful information this semester. Presentations come off as if he's just winging it every day — hard to take good notes. He decided to change the grade thresholds without warning before submitting final grades, which resulted in me dropping a letter grade.
+
+Course: CS4150 | Date: Dec 13, 2024 | Quality: 1.0 | Difficulty: 5.0
+This professor teaches via unorganized rambling. Every lecture it feels like he's playing catch-up with himself from last time. The one good thing is that he curves the tests pretty hard — the original average for the midterm was 32.7/50, then after the curve was 41.37/50.
+
+Course: CS4150 | Date: Dec 13, 2024 | Quality: 1.0 | Difficulty: 3.0 | Grade: A
+The only teaching and communicating done in this class was through the TAs.
+
+Course: CS4150 | Date: Dec 12, 2024 | Quality: 1.0 | Difficulty: 3.0
+Lectures are super rough and the examples he gives in class are shockingly convoluted. Often skims over the parts of algorithms I have the biggest questions about. I'm told he does much better in office hours but I've found that I do better in this course just watching YouTube tutorials.
+
+Course: CS4150 | Date: Dec 12, 2024 | Quality: 1.0 | Difficulty: 3.0 | Grade: B+
+He confuses even himself. You will learn more about algorithms by googling random DSA buzzwords on your 15 minute bus commute to class than you will in his lectures. He cannot teach.
+
+Course: CS4150 | Date: Dec 12, 2024 | Quality: 1.0 | Difficulty: 3.0 | Grade: B-
+Bad speaker, bad handwriting, bad slides, ambiguous assignments and questions. I wouldn't recommend unless you have no life outside school and enjoy spending money just to teach yourself.
+
+Course: CS4150 | Date: Dec 11, 2024 | Quality: 1.0 | Difficulty: 3.0 | Grade: B+
+One of the most incompetent professors at the U. His lectures are wildly unhelpful and confusing — he takes way too long to improperly teach the basic parts of a new concept, and suddenly expects you to be an expert when you get to the theory homework and exams. I had to go to his TA and the internet to learn anything in this class. Total mess.
+
+Course: CS4150 | Date: Oct 24, 2024 | Quality: 1.0 | Difficulty: 4.0 | Grade: B
+He knows how algorithms work, but he knows nothing about being a professor. The lectures are not helpful at all because he explains everything with poorly drawn diagrams. Often assigns 2 difficult assignments due within 2 days of each other. His knowledge of algorithms isn't worth enduring his class because he cannot explain it well.
+
+Course: CS4150 | Date: Oct 21, 2024 | Quality: 1.0 | Difficulty: 5.0
+Very boring lectures and examples in class are at a high level while the homework dives much deeper without a firm foundation. I get confused all the time on how we apply what we did in class to the actual theory homework.
+
+Course: CS4150 | Date: Dec 21, 2023 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Lectures were slow and it was hard to keep interest at times. Where this professor really shines is when talking with him in person. He was very accessible and his office hours were a fantastic resource. He is always interested in student feedback on how he could improve things and I think the course was overall easier than in previous semesters.
+
+Course: CS4150 | Date: Dec 21, 2023 | Quality: 3.0 | Difficulty: 2.0 | Grade: A
+Comparing to previous algorithm classes, we definitely had it easier. Although his lectures could be a bit slow moving, his assignments were relatively straightforward, and usually graded leniently. Exams were a bit tough, but he curved them. Really nice guy, okay lectures.
+
+Course: CS4150 | Date: Dec 20, 2023 | Quality: 2.0 | Difficulty: 4.0 | Would Take Again: Yes
+Late on publishing homework and curving policies. Promised to give post final exams but never did. Seems preoccupied doing something else the whole semester. He is nice enough to curve both exams, but doesn't care about teaching too much.
+
+Course: CS4150 | Date: Dec 15, 2023 | Quality: 2.0 | Difficulty: 3.0 | Grade: A
+The lectures are extremely boring and slow. It is hard to focus and learn because of this. His slides are always a mess so it is tough to review. Exams and homework were fair but I only did well on them because of work I did outside of lectures. He is a nice guy who curved exams but not a good professor.
+
+Course: CS4150 | Date: Dec 13, 2023 | Quality: 1.0 | Difficulty: 4.0 | Grade: A-
+Professor would often disregard explanations or examples by telling us it was "intuitive" or straightforward, even if it was a topic we had just barely started covering. Professor also told us we'd get a practice final, and waited until 2 days before the exam to inform us we wouldn't be getting one, while providing zero other practice material.
+
+Course: CS4150 | Date: Dec 10, 2023 | Quality: 2.0 | Difficulty: 4.0 | Grade: A
+The content is hard, the way he explains things is even harder to understand. Ironically a logic class should be explained logically, but his lecture notes are really confusing. If you ever had a class with Kopta, you'll see his slides are understandable and organized step by step. Prof Bhaskara makes it look like we're studying law school.
+
+Course: CS6150 | Date: May 16, 2023 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+With his strong math skills, he has an amazing habit of teaching with utmost clarity. Each and every line of proof in class will be cleanly derived from math. He teaches less content with more clarity. Sometimes his classes may be a bit sleepy.
+
+Course: CS3130 | Date: May 27, 2021 | Quality: 3.0 | Difficulty: 2.0 | Grade: B+ | Would Take Again: No
+His lectures were dry and slow-paced. This combined with his accent made it challenging for me to stay awake in this course. The assignments were generally pretty easy. If you want the credit for stats I'd recommend him, if you want to actually learn stats, steer clear.
+
+Course: CS3130 | Date: May 2, 2021 | Quality: 4.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes
+I enjoyed Prof. Bhaskara. He moves at a pretty slow pace, but I can appreciate that because I struggled on this topic. He is accommodating, and his assignments are pretty easy for the most part. He is a good choice for this course.
+
+Course: CS6150 | Date: Jul 23, 2019 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Pretty relaxed class if you have a reasonable math, algorithms, and data structures background. The professor doesn't usually explain trivial things so students need to be prepared or read a lot sometimes. Good homework problems. Exams can be a bit tough for the given time.
+
+Course: CS6150 | Date: Sep 27, 2018 | Quality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes
+Clearly a brilliant guy with a sunny disposition. Enjoyed the course, highly recommend taking him.
+
+Course: CS6150 | Date: Oct 22, 2017 | Quality: 1.0 | Difficulty: 2.0 | Would Take Again: No
+Mathematical arguments lack rigor and maturity. Specified homework problems are often vague leaving many ambiguities. PowerPoint slides should only be seen as supporting material for lectures, however they're used by the professor as primary reference material.

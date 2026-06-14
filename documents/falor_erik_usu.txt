@@ -1,0 +1,235 @@
+Professor: Erik Falor
+Department: Computer Science
+School: Utah State University
+RMP URL: https://www.ratemyprofessors.com/professor/2276652
+Overall Rating: 4.2 / 5
+Total Ratings: 74
+Would Take Again: 78%
+Average Difficulty: 3.5
+
+--- REVIEWS ---
+
+Course: CS1440 | Date: Jun 6, 2026 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+He taught a lot of useful concepts that could be applied outside of this class and made the lectures interesting. You can tell he knows what he's doing and explains things clearly. I really enjoyed the projects, and while they were difficult, I definitely felt I learned a lot in this class that I can use for the rest of my career.
+
+Course: CS1400 | Date: Apr 13, 2026 | Quality: 5.0 | Difficulty: 4.0 | Grade: F | Would Take Again: Yes
+Genuinely an incredible teacher, and an incredible class. It takes a lot of work, maybe 6 hours a week. Get ready to think hard. The class format is awesome and the videos by the other faculty member Chad Mano are a huge plus.
+
+Course: CS1440 | Date: Apr 6, 2026 | Quality: 4.0 | Difficulty: 4.0 | Grade: A- | Would Take Again: Yes
+Erik is a great professor and does a great job at teaching CS concepts to students. He gives extra credit through bug bounties and grace points. The whole point of this class is that you are a software engineer for a pseudo-company and most of the assignments are debugging or adding features to existing code. You don't build from scratch in this class.
+
+Course: CS1440 | Date: Jan 6, 2026 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Project based. Great professor!
+
+Course: CS1410 | Date: Jan 5, 2026 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+1410 is my favorite class. The idea is that you're an intern at a company. He's funny, approachable, flexible, and super kind. Great person and really good at answering questions. Available outside of class. One of those professors who you could become friends with.
+
+Course: CS1440 | Date: Nov 12, 2025 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Erik Falor is the best teacher I've ever had — amazing teaching style and awesome lectures. Prof. Falor teaches you real skills you'll need in the CS industry and really challenges you to put in the work to actually learn the skills, not just BS your way through classes. If you really want to learn CS, take Falor.
+
+Course: CS1400 | Date: Jun 3, 2025 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Fantastic professor. He provides a lot of materials for the students on Canvas and all lectures are recorded. Expect to spend 10+ hours a week on some assignments. Be sure to read through the grading rubrics carefully. There is a lot of opportunity for extra credit. I would highly recommend.
+
+Course: CS1440 | Date: May 7, 2025 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+He has experience in computer science, and he is not afraid to be honest about the constantly changing field. His tips are incredibly applicable to your career, and he also puts you into the workforce using a pseudo-company. Everything in his class is useful in computer jobs and jobs in general.
+
+Course: CS3450 | Date: May 2, 2025 | Quality: 3.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+The class is basically one long group project, where your entire grade is subjective based on how much effort he perceives you've put in. Erik also has a bit of a Linux complex, shaming students who don't use it, but it's not too bad. He's a really nice guy, and as long as you put in the necessary effort, the class should be easy.
+
+Course: CS1400 | Date: Apr 18, 2025 | Quality: 3.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Lectures were boring and not very helpful. There is weekly practice that takes about an hour, plus a weekly project that I spent about 4-9 hours on every week. There are online notes that are different than lecture notes that are really helpful for projects. Very time consuming class but not overly difficult.
+
+Course: CS1440 | Date: Jan 17, 2025 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+The course has zero tests — it is all project based. Will get you very familiar with using git.
+
+Course: CS1440 | Date: Aug 13, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+I'm now in my senior year at Utah State and I took Erik's CS1440 class in my freshman year. Without a doubt, this class has been the most helpful and impactful course I've taken at Utah State. More than any individual assignment, the emphasis on git and learning a shell environment has been critical to my other classes and internships.
+
+Course: CS1440 | Date: Jul 18, 2024 | Quality: 5.0 | Difficulty: 4.0 | Grade: A+ | Would Take Again: Yes
+This was the most impactful class that I've ever taken so far. Erik cares so much about teaching good, useful things for software development. He writes his own textbook and made his own resources to teach how to use the command line and git. The projects are pretty tough, taking about 13-16 hours for each of the 5 projects, but they're great.
+
+Course: CS1440 | Date: May 22, 2024 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+It's been a couple years, but Erik Falor was among the best of the USU CS teachers. Nearly everything he taught comes back in handy later. Butted heads as a kid, but used every lesson he taught years later. 10/10 prof!
+
+Course: CS1440 | Date: May 7, 2024 | Quality: 5.0 | Difficulty: 4.0 | Grade: A+ | Would Take Again: Yes
+Erik is a great professor. This class is time-consuming, but it teaches great skills, and is one of the most immediately useful classes I've ever taken. No tests, only some easy quizzes and readings, but the projects are heavy. Super engaging material, lectures, and projects.
+
+Course: CS1440 | Date: May 1, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Absolutely fantastic professor! Professor Falor has plenty of experience in the field and is just a great, funny, awesome dude. The homework isn't too difficult, but if you don't stay on top of it, it'll eat you up. Amazing professor!
+
+Course: CS1440 | Date: Apr 26, 2024 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Very clear grading, very easy to get an A if you put in the time. Homework is easy but very time-consuming, about 12 hours every 2 weeks. Lots of chances for extra credit. Very kind and personal, always willing to talk even for personal matters. The class singlehandedly contributed to my getting a CS job too.
+
+Course: CS1400 | Date: Dec 13, 2023 | Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+Prof. Falor is an amazing guy! This was my first semester of college. I didn't attend many lectures until around the middle of the semester, and I'm sad I didn't — Prof. Falor is super caring and patient.
+
+Course: CS1440 | Date: Dec 13, 2023 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Erik is without a doubt my favorite professor at USU. Erik really wants his students to actually know about computers, and of all professors at USU, Erik is the only one who I've felt actually gave me practical knowledge on how to code effectively in the 21st century.
+
+Course: CS1400 | Date: Dec 6, 2023 | Quality: 1.0 | Difficulty: 5.0 | Would Take Again: No
+His class was practically impossible. I spent 20+ hours a week on this class and barely was able to get through the semester alive. CS1400 is supposed to be the base class. As someone who has never taken or learned anything coding, I was surprised to receive roughly no help on how to finish my homework.
+
+Course: CS1400 | Date: Dec 6, 2023 | Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+I probably spent 10+ hours a week on homework for this class. Falor is a good professor and is accessible for homework questions. If you're looking for a class that doesn't require a ton of outside work, look elsewhere. Everything he teaches in class can be found in the videos on Canvas.
+
+Course: CS1400 | Date: Aug 21, 2023 | Quality: 5.0 | Difficulty: 4.0 | Grade: A+ | Would Take Again: Yes
+Erik was a great teacher for this course. He was super open to give help and feedback and very accessible. This course requires a ton of work in coding assignments. I found the problems fun, but challenging. Set aside a great deal of time, especially if you're new to coding.
+
+Course: CS1440 | Date: Apr 26, 2023 | Quality: 5.0 | Difficulty: 4.0 | Grade: C+ | Would Take Again: Yes
+Professor Falor is one of my favorite professors in USU CS. 1440 was probably my most challenging class this semester. Even with all the stress and crying I did, he still made lectures fun and assignments even more fun. START EARLY — they will sneak up on you fast.
+
+Course: CS1440 | Date: Apr 14, 2023 | Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+Erik's classes do tend to be a bit more difficult than some other CS courses, but if you just manage your time decently and read the instructions for assignments before starting, his classes aren't bad. He is a great professor, and the university has him teach some of the hardest classes in the pre-professional program because he does a great job.
+
+Course: CS1440 | Date: Mar 27, 2023 | Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes
+Erik is a great professor but teaches a difficult major. CS 1440 is where things get real and what is expected for later on in your CS career. In his class he makes it based on industry work with homework due every two weeks. Erik and the TAs are always there to help and guide you — don't be ashamed to ask for help.
+
+Course: CS2610 | Date: Dec 21, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+His web development class was so good and I learned so much about how to work with databases and also how to access other sites' APIs to use for your own website. Definitely a great class.
+
+Course: CS2610 | Date: Dec 1, 2022 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+Professor Falor is awesome. You will definitely need to stay up to date on everything he teaches because the assignments can be intense but if you start early they are fine. He really cares about what he teaches and tries to make it as interesting as possible.
+
+Course: CS1440 | Date: Nov 15, 2022 | Quality: 2.0 | Difficulty: 5.0 | Grade: B
+I spent around 15 hours a week on this class. I felt like the amount of work and time that Falor was requiring was unfair and the grading criteria far too strict. Very common to lose 10% on an assignment for small mistakes like forgetting to close a file. I would recommend avoiding Falor if possible.
+
+Course: CS2610 | Date: Nov 14, 2022 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+Professor Falor is awesome. He always provides super clear grading criteria and has a great setup for students to look back on lecture notes and everything covered in class. Projects are time consuming, but reasonably so and they help you learn a ton of useful CS skills.
+
+Course: CS2610 | Date: Oct 17, 2022 | Quality: 2.0 | Difficulty: 4.0 | Grade: B+
+He doesn't really teach. We spend most of class every day discussing why Linux is better than every other operating system. He claims he doesn't do your homework for you, but could we at least learn the materials needed to complete the assignment?
+
+Course: CS1440 | Date: Sep 7, 2022 | Quality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes
+Erik Falor is a wonderful instructor. He is very knowledgeable about the subjects he teaches and has a lot of passion for them as well. His classes can be tough but he always provides the tools that you need to be successful.
+
+Course: CS1410 | Date: Jun 17, 2022 | Quality: 2.0 | Difficulty: 4.0 | Grade: C
+Assignments in this class are extremely hard and can feel completely pointless. The grading rubrics become increasingly confusing. You can spend 15+ hours on an assignment and still get less than half points. Some of the skills we learned were valuable though, like Git and big data processing.
+
+Course: CS2610 | Date: May 12, 2022 | Quality: 5.0 | Difficulty: 5.0 | Grade: B- | Would Take Again: Yes
+Erik is amazing! I found web dev to be hard but he has amazing lectures. Participation is a large part of your grade. He tries to make everything fun, especially if you stick around for the cybersecurity section.
+
+Course: CS1440 | Date: May 2, 2022 | Quality: 2.0 | Difficulty: 4.0 | Grade: C+
+I wasn't a fan of some of the assignments that Professor Falor gave us and he is super specific about how assignments need to be done and is ruthless in his grading. You could make the slightest mistake and get docked a big chunk. Just overly specific and difficult.
+
+Course: CS2610 | Date: Apr 29, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+Erik gives great lectures and none of the assignments was a waste of time. This class covers the full stack and lets you get a feel for each important part. Erik is very available by email or Canvas and encourages feedback and creativity in projects.
+
+Course: CS1440 | Date: Apr 13, 2022 | Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+Most useful class I have ever taken in college. Professor Falor has a lot of experience in the software industry, and he shares his practical wisdom in an engaging and fun way. 100% I would take another class from him.
+
+Course: CS1440 | Date: Apr 12, 2022 | Quality: 2.0 | Difficulty: 5.0 | Grade: C
+He's really fun to listen to as a person but tries to cover too many topics. Be prepared to spend 10-15 hours a week on this class alone. He relies heavily on his TAs and gives them a lot of freedom when writing the assignments and grading. The assignments have so many moving pieces it's almost impossible to keep track of them all.
+
+Course: CS1440 | Date: Jan 19, 2022 | Quality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes
+Erik's classes are difficult, but he does a great job teaching. He tries to make assignments fun, and he actually teaches you useful real-world skills.
+
+Course: CS2610 | Date: Dec 8, 2021 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+Erik Falor is awesome and really cares about the courses he teaches and the students. He puts in a lot of effort in demos, lectures, online resources, and extra curricular activities. He is very thorough in explanations and will gladly go through any questions. He's also pretty funny.
+
+Course: CS1440 | Date: Dec 2, 2021 | Quality: 2.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: No
+I don't like Erik as a person. To me, he comes across as arrogant and sometimes rude. A lot of students seem to like him for some reason. I rarely went to his class and did just fine. Homework assignments are unnecessarily tough, and he is unbending in his grading policies.
+
+Course: CS2610 | Date: Dec 1, 2021 | Quality: 4.0 | Difficulty: 4.0 | Grade: A- | Would Take Again: Yes
+Professor Falor is a great guy. I have taken a few courses from him at USU and he is really passionate about the course material while also being very pragmatic and knowledgeable. His classes are not easy but they are not impossible and he isn't out to get you. Plan on a time commitment but if you watch lectures and pay attention you'll do fine.
+
+Course: CS1440 | Date: Nov 21, 2021 | Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes
+This class is super useful, and I love his approach to teaching in a real-life, application based manner. You'll get wrecked if you think you can start every project late, but they're satisfying to do and Erik and the TAs are great. There's a Discord that they're usually on and more than willing to help.
+
+Course: CS1440 | Date: Nov 6, 2021 | Quality: 5.0 | Difficulty: 5.0 | Grade: A | Would Take Again: Yes
+Erik is great. He's funny, relatable, a great teacher, and very knowledgeable. I actually enjoyed lectures. But this is by no means an easy class! Plus, he and his TAs were super accessible for help. Just be prepared for lots of hw and use the tutor lab.
+
+Course: CS1440 | Date: Oct 25, 2021 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+A great professor who actually teaches things that will be 100% useful in your career, as opposed to teaching just another language that you might not ever touch again.
+
+Course: CS1440 | Date: Oct 17, 2021 | Quality: 1.0 | Difficulty: 4.0 | Grade: B- | Would Take Again: No
+Erik is a very smart teacher, but is not great at explaining things at an introductory level class. It's very hard to get up to speed if you don't have much experience, and he is very harsh on grading. He is not understanding, and then blames you for not showing up for lectures even if you were there.
+
+Course: CS2610 | Date: Aug 26, 2021 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+He is a great teacher and makes sure you're equipped with what you need to know to finish assignments, and doesn't teach useless stuff. His tests are easy to pass if you take the practice quizzes.
+
+Course: CS1400 | Date: Jun 26, 2021 | Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+I took the summer 7 week session, and it was a lot, but Professor Falor and his TAs were always available, even at like 11 at night. He was a really nice teacher as well. Really down to earth.
+
+Course: CS1400 | Date: Jun 21, 2021 | Quality: 3.0 | Difficulty: 5.0 | Grade: C- | Would Take Again: No
+He is a great guy but when you go to him for help he is vague to the point that you aren't learning. The class is ridiculously hard for no reason considering it is an intro class. He wants to help and is willing to but is so caught up in not wanting to give it to you that you don't really get any help.
+
+Course: CS1440 | Date: May 21, 2021 | Quality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes
+Erik is an amazing professor. If you're struggling at all in the class, just reach out to him. He's extremely patient and will work with you. He has high standards, but will do what he can to help his students reach them.
+
+Course: CS1440 | Date: May 2, 2021 | Quality: 5.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+Fantastic class and an even better professor! The assignments were every 2 weeks and honestly pretty easy, about 8-15 hours depending on how quick you are. 6 assignments make up your entire grade besides 3 very easy exams, so don't skip on any assignments. Follow the instructions!
+
+Course: CS1440 | Date: Mar 15, 2021 | Quality: 5.0 | Difficulty: 4.0 | Grade: A+ | Would Take Again: Yes
+Professor Falor is one of the best professors I've had. The work is tough, but very fair. Assignments and expectations are clearly given. He's passionate about CS and easy to contact with questions. You will learn a ton if you go to lecture and do the homework.
+
+Course: CS1440 | Date: Mar 5, 2021 | Quality: 2.0 | Difficulty: 5.0 | Would Take Again: No
+When you ask him a question, he becomes condescending and scolds you for not watching the lectures. But the majority of the concepts in the homework are not covered in the lectures. Also, the class is much too hard for a low level class like this one.
+
+Course: CS1440 | Date: Feb 9, 2021 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+If you're a computer science major, take Erik. There's not a better CS professor out there. He teaches you a baseline for everything you end up using professionally including git and the command line. His assignments are tough but reasonable. If you want to be good at CS, take Erik.
+
+Course: CS3100 | Date: Dec 27, 2020 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+Great class! Learned a ton from Erik. The homework at times was a bit more difficult than I expected but if you start early there are plenty of resources to help you out. If you pay attention you can leave this class knowing a ton about how your computer is working.
+
+Course: CS1440 | Date: Nov 20, 2020 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+Erik is a phenomenal instructor. Grading criteria is extremely clear. Assignments are interesting, well designed, with high quality starter code, and graded clearly. Tests are equally great. You really have to put effort into participation in order to get that part of the grade.
+
+Course: CS1440 | Date: Nov 19, 2020 | Quality: 2.0 | Difficulty: 4.0 | Grade: C- | Would Take Again: No
+This is my second time taking this class and I barely passed. If you were to get one line of code wrong yet your program still works, you will absolutely bomb the assignment. The rubric for each assignment is too extensive. Expect to spend most of your time reading his instructions over and over.
+
+Course: CS1440 | Date: Nov 13, 2020 | Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes
+Truly an amazing professor. He gives real-world examples, and prepares you for the difference in format that you will experience when you enter the real world.
+
+Course: CS1440 | Date: Apr 29, 2020 | Quality: 2.0 | Difficulty: 4.0 | Grade: A | Would Take Again: No
+There are only 6 assignments in his class, but they each take about 2 weeks and exercise your brain a lot. He has you work in GitHub for all homework assignments which is good to learn for later in your career.
+
+Course: CS1440 | Date: Dec 2, 2019 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Great professor. His assignments can be strange but you will learn. His teaching style is a bit quirky but you are given the tools you need to succeed. I especially loved his tests as they were extremely straightforward and well written. You will pass with flying colors if you understand the material.
+
+Course: CS1440 | Date: Nov 9, 2019 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Erik is awesome. He doesn't believe that tests are very valuable in learning CS and as a result has easy tests that mostly focus on vocabulary. His assignments on the other hand are very challenging. If you don't start early you will have problems. He is always willing to help out if you ask him a question and loves the material.
+
+Course: CS2610 | Date: Nov 6, 2019 | Quality: 4.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Erik is a good professor, but his teaching style takes a little while to get used to. His tests are 95% copied from the optional mastery quizzes — memorize those and you're golden. Become familiar with the tutoring center and get started on the homework early — it's tough.
+
+Course: CS1400 | Date: Jun 21, 2019 | Quality: 2.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: No
+During lectures he goes off on many tangents and makes it very difficult to know what will actually be used or tested. If you have another option I would take this class from a different professor unless you're okay with sacrificing your GPA.
+
+Course: CS1410 | Date: Jun 20, 2019 | Quality: 5.0 | Difficulty: 4.0 | Grade: A+ | Would Take Again: Yes
+Homework is fairly difficult, and the tutoring center will become your best friend. Hard assignments, but helps you understand the concepts and is accessible outside of class. Good guy, gives a bit of extra credit, and takes attendance once a week.
+
+Course: CS2610 | Date: Apr 15, 2019 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Erik is awesome. Easily one of the best instructors I've ever had. He really cares about the students and will do what it takes to make sure they get a fair grade. He gives really good assignments that make you think. Super funny and witty.
+
+Course: CS1440 | Date: Apr 4, 2019 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+This class was great. Erik taught some very practical skills and terminology that I will be using throughout my career. The homework built my skills and the book he assigned was useful — I will probably actually use it again.
+
+Course: CS1440 | Date: Mar 25, 2019 | Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+Excellent professor, especially in one-on-one meetings. In class his lectures are excellent, but he can get distracted occasionally. Most of the grade comes from assignments, and tests are incredibly easy. He does a great job of making assignments close to real-world experience.
+
+Course: CS2610 | Date: Feb 26, 2019 | Quality: 1.0 | Difficulty: 4.0 | Grade: B | Would Take Again: No
+Erik will deduct 20% from your homework grade if a single file is out of place according to his specifications, even if everything works perfectly. You will spend more time trying to make sure everything fits his ultra specific but unimportant guidelines than actually working on the real parts of the assignments.
+
+Course: CS1440 | Date: Feb 8, 2019 | Quality: 2.0 | Difficulty: 4.0 | Grade: B | Would Take Again: No
+He is very harsh on making everything his way. When submitting assignments, if it is out of place by one file you are docked 20%. He does have good lecture notes but his lectures aren't too helpful.
+
+Course: CS3100 | Date: Oct 18, 2018 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+I've actually taken a number of classes from Erik, and while he can lose focus in lectures sometimes, he has pretty good lecture notes and example code and is very helpful during office hours. His class structure has only gotten better as he's gained more experience teaching. Tests are easier than the homework.
+
+Course: CS1440 | Date: Apr 13, 2018 | Quality: 2.0 | Difficulty: 3.0 | Grade: A | Would Take Again: No
+Dr. Falor is actually fairly good when you talk to him outside of class and ask him a specific question, but when he is in class he gets distracted very easily and will spend the majority of the class lecturing on things that aren't relevant. His homework is kind of nebulous and the assignment descriptions often change mid assignment.
+
+Course: CS3100 | Date: Apr 9, 2018 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+This class was difficult to get started on assignments, but he always went over the assignment description in class so we knew exactly what to do. Tests are more about what he says in class lectures than what's written in the notes, but were fair for the most part.
+
+Course: CS3100 | Date: Apr 6, 2018 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+There's a quiz every week and he posts the lecture notes. He gives you ample time to complete the 7 assignments in the semester. Exams are easy, just review the lecture notes. It's a fun class, I learned a lot and he cares and will help you if your program doesn't work.
+
+Course: CS2610 | Date: Dec 15, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Erik Falor teaches web architecture like it is his second language. He understands what happens in the web world and it shows in his lessons. His homework assignments are very well designed, and even though they take a while, they are very instructional.
+
+Course: CS1400 | Date: Oct 24, 2017 | Quality: 2.0 | Difficulty: 4.0 | Grade: A- | Would Take Again: No
+CS 1400 is rough — you are expected to spend 3 hours in class every week, an hour in recitation, and an hour every day reading and doing the homework. The tutor lab is jam-packed because the homework assignments are vague and they don't teach you how to do them in class.
+
+Course: CS2610 | Date: Aug 23, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Would Take Again: Yes
+Professor Falor was the man — his class was a good one to take. This was his first time teaching, but you couldn't really tell because he did such a fine job. I'd love to take classes from him again. I would recommend him to anybody who wants to get good at computer programming.

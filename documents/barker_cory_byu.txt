@@ -1,0 +1,316 @@
+Professor: Cory Barker
+Department: Computer Science
+School: Brigham Young University
+RMP URL: https://www.ratemyprofessors.com/professor/50662
+Overall Rating: 4.3 / 5
+Total Ratings: 142
+Would Take Again: 84%
+Average Difficulty: 3.0
+
+--- REVIEWS ---
+
+Course: CS236 | Date: Apr 13, 2026 | Quality: 3.0 | Difficulty: 2.0 | Grade: B+ | Would Take Again: Yes
+Class material is not very difficult to understand and is well explained. Projects are difficult and not very well explained. Fundamentals are easy but implementing them into code is something you have to figure out on your own time. Very time consuming busy work. More long than hard, but still a little hard. Don't highly recommend. 6/10
+
+Course: CS236 | Date: Apr 13, 2026 | Quality: 5.0 | Difficulty: 2.0 | Grade: A- | Would Take Again: Yes
+Dr. Barker is an awesome professor! Explains concepts very clearly and gives really helpful outlines for homework and projects. This course can be a little mind-bending, but if you pay attention to how all the different concepts factor into the main project, it's not too hard to follow. Readings are not required, and I never needed them.
+
+Course: CS224 | Date: Dec 11, 2025 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Dr. Barker is one of my favorite CS professors. He explains things clearly and does lots of example code to help the class know how to apply what he teaches. This class had difficult topics but they were made simple through his lectures. Tests were open note and not timed, making them doable and not stressful.
+
+Course: CS224 | Date: Dec 9, 2025 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+The class itself was tough but Dr. Barker made it doable! He's a nice guy, willing to laugh with the students, and is super good at answering questions. Would recommend! I will be taking 252 from him because of this good experience.
+
+Course: CS224 | Date: Dec 9, 2025 | Quality: 4.0 | Difficulty: 3.0 | Would Take Again: Yes
+Prof Barker is a good professor; he knows his stuff and is good at answering students' questions. While he does post his slides, you do have to go to class to get walk-throughs of practice problems. Two midterms, a final and 5 projects.
+
+Course: CS252 | Date: Oct 28, 2025 | Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes
+I took Professor Barker for CS236 last year and did great. So far, CS252 has been a breeze! Professor Barker does a great job breaking things down in class and effectively answers questions. If you learn by example, this is your guy.
+
+Course: CS236 | Date: Sep 1, 2025 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Very clear teacher. Took some very complex topics and explained them so that everyone could understand. He always takes time for questions, whether on in-class topics or homework/projects. His lectures can be a little boring, but it's worth it with how well he explains everything.
+
+Course: CS236 | Date: Apr 29, 2025 | Quality: 4.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+This class was kind of weird, and Dr. Barker is kind of a weird guy, but I love him. He is super nice, understanding, and helpful. Sometimes his explanations were a little confusing, but he was great at answering questions. He gave us all the resources we needed and his test reviews were extremely helpful. Don't get the textbook you don't need it.
+
+Course: CS236 | Date: Nov 30, 2024 | Quality: 4.0 | Difficulty: 3.0 | Grade: B+ | Would Take Again: Yes
+Professor Barker presents tricky topics in a clear way. While the projects can be challenging, his practice tests are spot-on. Keeping up with the lectures and using resources really helps nail the material.
+
+Course: CS236 | Date: Oct 11, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+I'm surviving in CS 312 because of how great a teacher Dr Barker was in CS 236. I didn't realize how clearly he explained things until I left. I'd definitely recommend him.
+
+Course: CS236 | Date: Sep 3, 2024 | Quality: 4.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+Dr. Barker is good at simply explaining things in class. The homework is really easy but the projects are difficult and time consuming. The exams are similar to the homework but are worth 50% of your grade. Always ask the TAs to look over your homework before turning it in.
+
+Course: CS236 | Date: Aug 23, 2024 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+The key is to go to class because everything is taught then, but if you miss class you will be lost. He doesn't have very good outside material. There is homework every class but later in the semester it can take 5 minutes. Labs and projects switch every week; labs are easy but projects are hard and those can take a lot of time. He is also very monotone.
+
+Course: CS236 | Date: Jun 1, 2024 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Dr. Barker is an effective teacher. I found that by attending his lectures alone, I understood the material well enough that I rarely needed to go out of my way to study for the exams. The only somewhat difficult part of the class are the projects, but if you have C++ experience, you should do fine. The TAs are also helpful with projects.
+
+Course: CS236 | Date: May 4, 2024 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+I feel he didn't explain objectives/purpose of teaching topics very clearly, but once you understand the purpose of what is being taught it's relatively easy to follow along. He does not teach programming skills hardly ever so you either need experience in C++ or be willing to self learn concepts.
+
+Course: CS224 | Date: Jan 10, 2024 | Quality: 4.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Solid teacher. Explains the concepts simply and clearly. I enjoyed his class. You can work ahead on the first few projects as they are a lot of review from previous classes. It gets a little trickier later on with assembly. Heavily utilize the TAs. Tests are chill with his study guide.
+
+Course: CS252 | Date: Jan 3, 2024 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+This course feels more like an applied math course than a CS course (you don't code anything in the class), some familiarity with proofs will help a lot. Dr. Barker has a good sense for where students get lost, lecture is basically necessary if you want to understand the book. Take home open note midterm/final are worth 60%, nothing unreasonable.
+
+Course: CS224 | Date: Dec 20, 2023 | Quality: 3.0 | Difficulty: 4.0 | Would Take Again: No
+He is a good professor but his exams are extremely hard. I heard it's much easier to get an A in this class if you take it from someone else. Two midterms and a final, all unreasonably difficult, questioning you on ONLY the toughest topics. Also 5 big projects and 14 labs. Do not recommend him.
+
+Course: CS236 | Date: Sep 11, 2023 | Quality: 4.0 | Difficulty: 4.0 | Grade: C+ | Would Take Again: Yes
+Prof. Barker is very good at explaining the content and answering questions, but he provides basically no outside study material. If you attend all lectures and complete all of the homework YOU WILL BE EQUIPPED TO PASS. If you miss lectures or don't resolve any questions you have in class though, you will need to rely on other students or the TAs.
+
+Course: CS236 | Date: May 13, 2023 | Quality: 2.0 | Difficulty: 3.0 | Grade: B+
+Very nice professor. However, I did not feel like the class was organized, and felt like I had to teach myself the material. He taught by scrolling through a text file. If you go to the test review, the tests aren't bad at all (the study guide is almost identical to the tests). TAs were very helpful.
+
+Course: CS252 | Date: Jan 4, 2023 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+He is really good at explaining difficult concepts, and he takes time to answer student questions. Open note, take home tests! Funny and kind professor. The homework was short and doable. I enjoyed this class, even though the concepts were hard for me.
+
+Course: CS224 | Date: Dec 21, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Dr. Barker is a great professor! Though he might not be the most lively and exciting professor out there, he's passionate about CS and really wants to see you succeed. He was always willing to offer help and further explanations as well. The class can be tricky, but Dr. Barker does a great job in teaching the topics.
+
+Course: CS224 | Date: Dec 21, 2022 | Quality: 3.0 | Difficulty: 3.0 | Grade: A+
+Probably the most average professor I've had so far. At the very least his class was pretty easy compared to my other ones this semester. BE WARNED - it's very easy to drift off or sleep during his lectures thanks to his volume/speed. At least you can see the PowerPoints on Canvas though.
+
+Course: CS235 | Date: Dec 19, 2022 | Quality: 1.0 | Difficulty: 3.0 | Grade: B
+On the last project, my code didn't print a semicolon at the end of one of the lines, even though the AVL tree I built was perfect. The print function being slightly off made me fail the project. He grades on a pass/fail for each project, so that one missing semicolon brought me down a letter grade from A to B. Absolutely ridiculous.
+
+Course: CS224 | Date: Oct 19, 2022 | Quality: 3.0 | Difficulty: 2.0 | Grade: A
+Barker seems to know what he's doing, but his lecture style can be confusing. He didn't do a very good job explaining new concepts, instead walked through examples of them and let you try to understand on your own.
+
+Course: CS236 | Date: Oct 19, 2022 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+I really enjoyed Dr. Barker and as I write this I'm actually taking my third class from him. Specifically for CS 236 though, he does a great job of visually showing what is happening with the systems he's teaching about. He'll walk through step by step what the computer would see and diagrams what will happen. All of his class notes are also online.
+
+Course: CS240 | Date: Aug 1, 2022 | Quality: 1.0 | Difficulty: 4.0
+Cory Barker teaches the textbook and his lectures are extremely dry. He never motivates you to care about anything he teaches. Labs and homework assignments you're basically left to fend for yourself. Assignments are vague, absurdly difficult, time consuming, and miserable. Every moment spent in class feels like a waste of time.
+
+Course: CS252 | Date: Jul 1, 2022 | Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Would Take Again: Yes
+Do the readings. The readings for 252 will save you and actually help you learn something. For 224 and 252, pay attention during class. He gives lots of detailed explanations of the material and he will answer every question you give him.
+
+Course: CS252 | Date: Dec 11, 2021 | Quality: 4.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes
+He's pretty funny and good at explaining things. It felt like halfway through the semester he got spooked that the class was too hard and after that the tests and HW grading became very easy.
+
+Course: CS252 | Date: Aug 16, 2020 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Professor Barker is extremely funny. I loved going to class because he made it entertaining and interesting. I found he was very good at answering student's questions in class and focusing on what was relevant to the class. The concepts in this class are tough and I thought he did a good job explaining them. My favorite teacher here at BYU.
+
+Course: CS236 | Date: Jun 15, 2020 | Quality: 2.0 | Difficulty: 4.0 | Would Take Again: No
+He doesn't care about the students. He is there to teach and lecture and that's it. Never answered questions clearly. Grading is super harsh. You lose 5% every time you don't get a hundred on the labs. He never learned a student's name in my class.
+
+Course: CS236 | Date: Apr 21, 2020 | Quality: 5.0 | Difficulty: 4.0 | Grade: A+ | Would Take Again: Yes
+Seems like the average professor until you see someone else teach the same content, he makes incredibly difficult material seem simple and easy. Lets you know his practice tests almost exactly model the real ones.
+
+Course: CS236 | Date: Apr 18, 2020 | Quality: 3.0 | Difficulty: 3.0 | Would Take Again: Yes
+Professor Barker was very caring, I just found lectures somewhat boring and slow. The hardest aspect of this class as with most other CS classes were the projects/labs. However, he goes over a lot of pseudocode in class which was very helpful.
+
+Course: CS252 | Date: Apr 9, 2020 | Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Would Take Again: Yes
+Dr. Barker has a good sense of humor and explains lectures very well. This class is CONCEPT HEAVY so you need a good professor and good TAs. I did my homework directly after class which helped me a lot. Dr. Barker is a great professor.
+
+Course: CS236 | Date: Feb 24, 2020 | Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+He is a great professor and very funny. I took multiple classes from him and they all were great. Attendance is not mandatory but all of the answers are provided in class and not posted online. Classes are usually very challenging but he provides the needed knowledge to get things done.
+
+Course: CS236 | Date: Oct 26, 2019 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+I took Dr. Barker for CS 236, and I'm taking 252 from him now. He's uncommonly clear for a CS teacher, perhaps because he spends most of his time working through examples of the concepts rather than throwing endless slides of computer code at you. He's easygoing and manages to be very enthusiastic about what is otherwise a very dry class.
+
+Course: CS236 | Date: Oct 4, 2019 | Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Would Take Again: Yes
+All I hear is many complaining about how hard this class is. I notice some feel this way because they skip, fall asleep in class, do not read and do not spend about 9 hrs a week outside of class. Dr. Barker has his imperfections, but he is a dedicated and caring teacher.
+
+Course: CS236 | Date: Jul 1, 2019 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Great teacher. Very funny, very straight to the point. Felt like he wasn't super happy to help outside the class, but other than that awesome teacher!
+
+Course: CS252 | Date: Feb 25, 2019 | Quality: 2.0 | Difficulty: 4.0 | Would Take Again: No
+I have mixed feelings about him. He is kind and funny, but I think he is lazy and doesn't leave his comfort zone. The concepts of the class are hard and the book is not very clear but he doesn't bother giving extra examples even when you ask a question.
+
+Course: CS252 | Date: Dec 21, 2018 | Quality: 4.0 | Difficulty: 3.0 | Would Take Again: Yes
+He is very kind and has a unique and effective teaching style but he didn't provide any useful learning resources; the book is confusing and his notes were scattered. Test reviews never had solutions you could study, and things are graded really harshly.
+
+Course: CS252 | Date: Dec 20, 2018 | Quality: 4.0 | Difficulty: 4.0 | Grade: B+ | Would Take Again: Yes
+Dr. Barker is an awesome teacher. CS 252 is pretty hard conceptually. There are a lot of homeworks, but they are each worth 2-5 points. There are two midterms and a final, each worth around 150 points. Half way through the semester the class becomes very difficult so be prepared.
+
+Course: CS252 | Date: Dec 20, 2018 | Quality: 4.0 | Difficulty: 4.0 | Grade: B | Would Take Again: No
+Professor is good. Has an interesting sense of humor. Usually pretty good at teaching but sometimes it was confusing. The class is difficult conceptually but has a light work load. Way too little hw. 2 questions on each, if you get one wrong, that's a 50%.
+
+Course: CS252 | Date: Nov 13, 2018 | Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes
+This guy is a genius. He is probably the best at teaching crazy concepts. He gives you a week to take each exam. I took him for 236 and 252 and am really glad that I could do that.
+
+Course: CS235 | Date: Oct 3, 2018 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Dr. Barker is a solid professor who knows his stuff. His homework assignments are minimal: just enough problems so that you know whether or not you know your stuff. The projects in this class are challenging, but Dr. Barker makes them accessible.
+
+Course: CS236 | Date: Sep 13, 2018 | Quality: 5.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes
+Barker is a gifted teacher. I struggled in this course under a different professor, withdrew, and retook it the next term under Barker. Barker made all the concepts that I didn't understand before become crystal clear and simple.
+
+Course: CS236 | Date: Sep 5, 2018 | Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Would Take Again: Yes
+This class is difficult. It's not a breeze by any standard. But this teacher is one of the most fair men I've ever been taught by. He has a grading system that gives you all the chances you would need to get an A. The word I would use to describe him is FAIR.
+
+Course: CS236 | Date: Sep 3, 2018 | Quality: 3.0 | Difficulty: 4.0 | Grade: B- | Would Take Again: No
+CS 236 was a really cool class, but the course work and what you are tested on are very different. The tests are worth 50% of your overall grade and had little value to what we were doing in class, and were difficult.
+
+Course: CS235 | Date: Jul 3, 2018 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+Difficult class, but Barker makes it a lot easier. Best professor I've had at BYU. Explains concepts very clearly, walks you through labs in class. Very good at helping students understand, and very willing to answer questions. Definitely take as many classes as possible from Barker.
+
+Course: CS236 | Date: May 18, 2018 | Quality: 4.0 | Difficulty: 3.0 | Would Take Again: Yes
+Professor Barker is a good professor who is helpful and explains concepts well. You have to go to class to know what is on the test and homework, because it isn't really in the textbook.
+
+Course: CS236 | Date: Apr 24, 2018 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+His lectures are VERY clear and the homework is light. He's an easy-going guy. The labs can be difficult but he goes over what you need to do in detail. Do the practice problems for the tests and pay attention in class, and you'll be fine!
+
+Course: CS236 | Date: Apr 19, 2018 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+If you have to take CS236, take it from Professor Barker. He did a better job explaining and simplifying the material. Lectures were interesting. He was always available to help before, during and after class. You can also tell that he cares and respects his students.
+
+Course: CS236 | Date: Apr 18, 2018 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+Dr. Barker makes a very difficult class bearable. His lectures are entertaining and insightful. He spends most of the time going over examples, which is super helpful. He is very willing to answer questions. His tests were MUCH easier than any other professor's. The labs are tricky, but he always gives you a good overview of what you need to do.
+
+Course: CS235 | Date: Dec 8, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+Easily my favorite CS professor. Great at explaining difficult concepts from many different angles and very patient and respectful when addressing questions. You will never feel like he moved on without you.
+
+Course: CS252 | Date: Dec 8, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Easily the best CS professor. Dr. Barker is patient and respectful to the students who do not understand. He doesn't simply repeat his statements when asked to explain, he approaches the idea from an entirely new angle. Unlike other CS professors, he understands where and how people get confused. He is a dedicated teacher.
+
+Course: CS235 | Date: Aug 26, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Would Take Again: Yes
+7 labs, 1 midterm, 1 final and easy hw. 60% weighted final and midterm. The midterm and final are easy if you learn the study guide. His lectures are funny and enjoyable and useful. The labs are most difficult!
+
+Course: CS235 | Date: Jul 19, 2017 | Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+You'll actually learn if you go to class. His lectures are brilliant, he gives plenty of leeway with deadlines, and he explains all the labs. He really understands how students learn and how people actually think. He'll guide you to the right answer through teaching a programming mindset. 10/10 would take again.
+
+Course: CS236 | Date: Jun 10, 2017 | Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+Dr Barker is very organized and really helps his students succeed in the course. The course was still pretty demanding if you really wanted to excel and get an A.
+
+Course: CS236 | Date: Mar 29, 2017 | Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes
+Professor Barker is the man! He is hilarious and very approachable. His teaching is very clear and to the point and if you follow along you'll see that what you are doing is exactly what's on the exams.
+
+Course: CS235 | Date: Jan 11, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+I have taken three classes from Dr. Barker (235, 236, 252) and I recommend everyone to do the same. He is a very fair grader and his homeworks are meant for attendance purposes. Great lecturer, fair with due dates. Fantastic CS professor.
+
+Course: CS235 | Date: Dec 31, 2016 | Quality: 1.0 | Difficulty: 4.0 | Grade: C+ | Would Take Again: No
+This class started confusing because we were expected to work with a new operating system with no instruction. This class is one in which the professor actually curved us down a letter!
+
+Course: CS235 | Date: Dec 8, 2016 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Professor Barker is a stud! Everything in the class was super clear. Whenever he throws new ideas at you, he gives you time to think through it and internalize it before moving on. This class is the reason I changed my major to CS. Take as many classes from Barker as you can!
+
+Course: CS235 | Date: Dec 5, 2016 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+Brother Barker is legendary in the CS department. He respects the students and doesn't make us jump through hoops like other professors. He is honest and truly wants us to learn the material. His teaching is very interactive and effective.
+
+Course: CS235 | Date: Nov 28, 2016 | Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Would Take Again: Yes
+If I could take all of my CS classes from Barker, I would. He is very clear and gives enough homework to help you understand the material, but not enough to take up all of your free time.
+
+Course: CS235 | Date: Oct 26, 2016 | Quality: 4.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+I thoroughly enjoyed taking CS 235 from Dr. Barker. He really knows the material and clearly explains concepts in lectures. Organization was good, and you knew exactly what was expected of you. Get help on the labs from the TAs if you get stuck.
+
+Course: CS236 | Date: Apr 21, 2016 | Quality: 4.5 | Difficulty: 3.0 | Grade: A
+Prof. Barker is a really good guy. He's funny, he's got a good attitude, and he does a good job at simply explaining the concepts. The labs were somewhat time consuming; this course becomes a lot easier when you commit to getting working on labs well before their due dates.
+
+Course: CS235 | Date: Apr 15, 2016 | Quality: 4.5 | Difficulty: 1.0 | Grade: A
+Crystal clear lectures with notes available online. Seems like a nice guy. DO NOT BUY THE TEXTBOOK, it's really confusing and totally unnecessary.
+
+Course: CS236 | Date: Apr 1, 2016 | Quality: 3.0 | Difficulty: 4.0
+Dr. Barker is a really funny, quirky guy. He will teach pretty clearly, but there are concepts that he just didn't get across so that everyone could understand them. The labs are pretty tough and will take time to finish.
+
+Course: CS252 | Date: Dec 17, 2015 | Quality: 3.0 | Difficulty: 4.0
+CS 252 can be kind of obnoxious. Professor Barker does his best with this bummer of a class. The textbook was verbose and hard to get into. Homework gets really hard in the middle of the semester. Once you get it, it's pretty cool.
+
+Course: CS236 | Date: Oct 26, 2015 | Quality: 4.5 | Difficulty: 3.0 | Grade: A
+Professor Barker is a great professor. He teaches the concepts simply and well. The major part of the course is the labs, the homework is almost trivial. Be ready to spend quite a bit of time on labs, but this is a great class.
+
+Course: CS235 | Date: Aug 25, 2015 | Quality: 2.0 | Difficulty: 5.0
+Do not take this class if you will be needing any special circumstances. All-or-nothing labs — he will fail your lab if you leave in your debugging code, even if your program actually does everything it's supposed to. He does not make exceptions to his own policy.
+
+Course: CS235 | Date: Aug 24, 2015 | Quality: 4.0 | Difficulty: 4.0 | Grade: B-
+Professor Barker himself is a helpful and very real professor. He makes his own lectures, uses his own code, and generally explains very well. If you pay attention and go to class, it isn't too terrible. But be prepared to spend hours upon hours on labs.
+
+Course: CS235 | Date: Aug 6, 2015 | Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes
+A good teacher. His lectures are nice and thorough and explain what the book doesn't really well. He uses his own code and examples and doesn't just recite the book. Just pay attention in class and know how to do the study guides. The labs are time consuming so get ahead.
+
+Course: CS235 | Date: Apr 29, 2015 | Quality: 4.5 | Difficulty: 3.0
+Great lecturer. Keeps my attention. Made sure we were prepared for the midterm. The labs are a lot of work, be prepared for a lot of hours in the CS lab. His lectures were very clear.
+
+Course: CS236 | Date: Apr 29, 2015 | Quality: 4.5 | Difficulty: 3.0
+Dr. Barker is hands down the best teacher/professor I've ever had. The material is intimidating, but he makes things as clear as possible. The projects build on each other, so make sure you design them well and finish them early.
+
+Course: CS236 | Date: Dec 29, 2014 | Quality: 5.0 | Difficulty: 3.0 | Grade: A
+Prof Barker's classes are outstanding. He makes complex topics simple through examples, with the expectation of participation. He wants the student to hear, see, then practice. Straight forward tests. Programming projects can surprise, and not completing one will devastate your grade.
+
+Course: CS236 | Date: Dec 8, 2014 | Quality: 5.0 | Difficulty: 3.0
+Dr. Barker's lectures are excellent. He explains concepts clearly, and gives relevant examples. He is also super entertaining. He interjects fun and humor into what could otherwise be profoundly dry material. Would definitely take more classes from him!
+
+Course: CS235 | Date: Dec 8, 2017 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Easily the best CS professor. Dr. Barker is patient and respectful to the students who do not understand. He approaches ideas from entirely new angles when asked to explain. He is a dedicated teacher.
+
+Course: CS235 | Date: Apr 17, 2014 | Quality: 5.0 | Difficulty: 1.0 | Grade: A
+Cory Barker is a gift from God to an undeserving world. His class lectures were great. The exercises, in class and out of class, were challenging and educational. If I could take every class for the rest of my life from Professor Barker, I wouldn't even hesitate for a second.
+
+Course: CS235 | Date: Apr 14, 2014 | Quality: 5.0 | Difficulty: 2.0
+Professor Barker is a great professor. He keeps the class fun and entertaining while teaching the content and clearly answering all questions. The labs do take quite a bit of work, but this is expected. Strongly recommend!
+
+Course: CS235 | Date: Mar 31, 2014 | Quality: 4.5 | Difficulty: 2.0
+A very fun and informative professor. He jokes around to keep the class light, but does all he can to help you understand the material. Highly recommend.
+
+Course: CS236 | Date: Mar 4, 2014 | Quality: 5.0 | Difficulty: 3.0
+Clearly explained the concepts. Labs can be difficult, but they are definitely doable. Go to class and take good notes, and you'll do fine. Tests were straightforward.
+
+Course: CS235 | Date: Aug 15, 2013 | Quality: 4.5 | Difficulty: 3.0 | Grade: A
+Dr. Barker is a great lecturer. Very nice and does a great job explaining difficult concepts. Be prepared to put in time to pass off the labs.
+
+Course: CS235 | Date: Jun 26, 2013 | Quality: 4.0 | Difficulty: 4.0
+Barker is a very good professor. He teaches the subject well and is fun. I learned a lot and enjoyed it.
+
+Course: CS235 | Date: Apr 29, 2013 | Quality: 5.0 | Difficulty: 1.0
+Doctor Barker is awesome. He makes the concepts really easy to understand. Labs can be kind of difficult, but he gives you a lot of helpful pseudo code and will really help if you ask questions. His tests are a breeze because he tells you exactly what will be on them and you can use notes.
+
+Course: CS235 | Date: Apr 15, 2013 | Quality: 3.0 | Difficulty: 5.0
+His lectures were definitely worth going to. The hw was really easy. The labs were ridiculously hard. I spent 20+ hrs a week and still didn't finish some of them. No partial credit kills your grade. He's one of the better CS lecturers but I'd probably take it from someone else if you want a good grade.
+
+Course: CS235 | Date: Apr 8, 2011 | Quality: 5.0 | Difficulty: 3.0
+He is the BEST CompSci teacher period. Take his class, love his class, participate and thank him for being awesome.
+
+Course: CS236 | Date: Apr 4, 2011 | Quality: 4.5 | Difficulty: 1.0
+Wonderful teacher. As long as you keep up on your lab work, the rest of the class is easy. I never got less than a 90% on the midterms.
+
+Course: CS235 | Date: Dec 17, 2010 | Quality: 3.5 | Difficulty: 2.0
+Nice guy, but this class disappointed me. Homework seemed useless and a waste of time. The material was great, tests fair, labs alright. You could learn everything you need in this class by reading the book and writing your own programs for practice.
+
+Course: CS236 | Date: Dec 17, 2010 | Quality: 4.5 | Difficulty: 1.0
+Good professor. Labs aren't too bad as long as you don't get behind. Make sure you go to class. Great guy, good class.
+
+Course: CS236 | Date: Dec 15, 2010 | Quality: 5.0 | Difficulty: 1.0
+I would recommend Dr. Barker to everyone. He makes sure that students understand the material being taught before he moves on in the lecture. And his dry humor makes this seemingly boring class fun!
+
+Course: CS235 | Date: May 13, 2010 | Quality: 5.0 | Difficulty: 2.0
+Great Prof! Dr. Barker showed me a ton of new things to apply to concepts I had already known.
+
+Course: CS236 | Date: Apr 15, 2010 | Quality: 4.5 | Difficulty: 2.0
+He teaches better than the book does, and the projects are challenging but very useful. Discrete mathematics is fairly boring and abstract by itself, but his teaching and the application to programming made it much more interesting and useful.
+
+Course: CS235 | Date: Jan 2, 2010 | Quality: 5.0 | Difficulty: 1.0
+Dr. Barker is an excellent teacher. He explains the material well, better than the book. The class requires time (5-15 hours/week in the lab depending on your programming ability) and effort, but an A is easily gotten if you do the work.
+
+Course: CS235 | Date: Jun 20, 2009 | Quality: 5.0 | Difficulty: 2.0
+Great teacher! He really knows how to explain things well, is very excited about teaching, and really helps his students learn. I would recommend taking any class from him.
+
+Course: CS236 | Date: Jun 19, 2009 | Quality: 5.0 | Difficulty: 4.0
+You won't regret taking a CS class from Dr. Barker. You'll be in the CS labs 10-20 hours a week programming. Computer Science classes take a long time. If you've got to take CS 235 or 236 take it from Dr. Barker.
+
+Course: CS235 | Date: Apr 29, 2009 | Quality: 5.0 | Difficulty: 3.0
+Prof. Barker is amazing! He prepares you well for all projects and exams, and is willing to work with you and get you the help you need. I felt everything was always fair and he presented material crystal clear. It's a hard and time-consuming class, but he is a great professor.
+
+Course: CS235 | Date: Apr 15, 2008 | Quality: 5.0 | Difficulty: 1.0
+Dr. Barker is one of the best computer science professors I've had. He presents the material by doing examples on the board and in code, all of which are quite easy to follow. Labs are challenging but are given plenty of time, homework assignments are few and short, and exams are easy. Highly recommended.
+
+Course: CS235 | Date: Mar 27, 2008 | Quality: 3.5 | Difficulty: 2.0
+CS 235 has very little book work; most of the homework is writing programs. A couple of the labs are pretty challenging, the rest take about 5-10 hours for an average programmer. Dr. Barker is very good at explaining the more abstract and complicated elements of programming.
+
+Course: CS235 | Date: Apr 16, 2007 | Quality: 4.0 | Difficulty: 4.0
+Dr. Barker was great! The class was fun and we learned a ton. Some of the projects were quite hard, but that's CS for you!
+
+Course: CS236 | Date: Sep 6, 2006 | Quality: 5.0 | Difficulty: 3.0
+Dr Barker is an excellent teacher for this difficult class. He's very helpful with questions, and did his best to explain the difficult concepts clearly. The textbook for the class is horrible, and he knows that so he doesn't put much emphasis on it. Would definitely recommend him as a professor.
+
+Course: CS235 | Date: Jun 21, 2005 | Quality: 5.0 | Difficulty: 3.0
+The best computer science professor at BYU. He knows his stuff and will help you whenever you need it.
+
+Course: CS235 | Date: Nov 28, 2004 | Quality: 5.0 | Difficulty: 2.0
+Dr. Barker is so far the best CS professor at BYU. If you can take a class from him, do so. Lectures are VERY good and enjoyable. Funny and smart, Dr. Barker does a great job.
+
+Course: CS252 | Date: Dec 2, 2004 | Quality: 5.0 | Difficulty: 2.0
+Awesome professor. He is always in a good mood and very prepared to teach. Great teaching skills.
