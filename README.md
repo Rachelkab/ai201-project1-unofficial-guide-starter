@@ -1,162 +1,263 @@
-# The Unofficial Guide — Project 1
+# The Unofficial Utah CS Professor Guide
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
+A RAG (Retrieval-Augmented Generation) system that makes student-generated knowledge about CS professors at Utah universities searchable and answerable. Users ask plain-language questions and get grounded, cited answers drawn from real Rate My Professors reviews.
 
 ---
 
-## Domain
+## Domain and Document Sources
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**Domain:** Student reviews of CS professors at Southern Utah University (SUU), University of Utah, BYU, and Utah State University — covering teaching quality, exam difficulty, grading, and workload.
+
+This kind of student knowledge is difficult to find through official channels because universities have an interest in protecting both their institution and their faculty. Official sources like course catalogs and faculty pages present professors in the best possible light — they won't tell you that a professor's exam averages are consistently below 50%, or that students feel talked down to in class. The real student experience lives in informal spaces like Rate My Professors.
+
+### Source Documents (16 total, ~782 reviews)
+
+| # | Professor | School | URL | Reviews |
+|---|-----------|--------|-----|---------|
+| 1 | Nathan Barker | Southern Utah University | https://www.ratemyprofessors.com/professor/1034793 | 23 |
+| 2 | Cecily Heiner | Southern Utah University | https://www.ratemyprofessors.com/professor/1719474 | 25 |
+| 3 | Hussain Aljafer | Southern Utah University | https://www.ratemyprofessors.com/professor/2574740 | 13 |
+| 4 | Prosenjit Chatterjee | Southern Utah University | https://www.ratemyprofessors.com/professor/2997290 | 19 |
+| 5 | John Regehr | University of Utah | https://www.ratemyprofessors.com/professor/762698 | 17 |
+| 6 | Erin Parker | University of Utah | https://www.ratemyprofessors.com/professor/710755 | 181 |
+| 7 | Daniel Kopta | University of Utah | https://www.ratemyprofessors.com/professor/1799826 | 122 |
+| 8 | Aditya Bhaskara | University of Utah | https://www.ratemyprofessors.com/professor/2252159 | 28 |
+| 9 | Gordon Bean | Brigham Young University | https://www.ratemyprofessors.com/professor/2781547 | 52 |
+| 10 | Cory Barker | Brigham Young University | https://www.ratemyprofessors.com/professor/50662 | 142 |
+| 11 | Duane Dougal | Brigham Young University | https://www.ratemyprofessors.com/professor/2114854 | 20 |
+| 12 | Tom Stephens | Brigham Young University | https://www.ratemyprofessors.com/professor/3064932 | 17 |
+| 13 | Erik Falor | Utah State University | https://www.ratemyprofessors.com/professor/2276652 | 74 |
+| 14 | Vicki Allan | Utah State University | https://www.ratemyprofessors.com/professor/795934 | 51 |
+| 15 | Joseph Ditton | Utah State University | https://www.ratemyprofessors.com/professor/2590785 | 37 |
+| 16 | Seth Bassetti | Utah State University | https://www.ratemyprofessors.com/professor/2930654 | 18 |
+
+Documents were collected manually by copying review text from Rate My Professors into cleaned .txt files. This approach was chosen over scraping because RMP uses JavaScript rendering that blocks automated requests.
 
 ---
 
-## Document Sources
+## Chunking Strategy and Reasoning
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
+**Strategy:** One review per chunk, with no overlap.
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+**Chunk size:** One individual student review (typically 50–150 words).
+
+**Overlap:** None. Reviews are already independent units — there is no context that bleeds between one review and the next, so overlap adds no value here.
+
+**Metadata header on every chunk:** Each chunk includes professor name, school, course, quality rating, difficulty rating, and date so that every chunk is fully self-contained and retrievable without needing surrounding context.
+
+**Why this fits the documents:** Reviews are short, opinion-based, and self-contained. Each review represents one student's complete experience. Splitting them further would destroy meaning, and grouping them together would dilute specificity. A query like "Is Parker a tough grader?" needs to match a review specifically about grading, not a chunk that mixes grading with office hours and exam format. One review per chunk gives the embedding model the most focused, specific semantic signal possible.
+
+**Total chunks produced:** 782 (slightly fewer than total ratings because very short reviews under 20 characters were filtered out — these were ratings with no written text).
 
 ---
 
-## Chunking Strategy
+## Sample Chunks
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
+**Chunk 1 — Source: parker_erin_uofu.txt**
+```
+Professor: Erin Parker | School: University of Utah
+Course: CS2420 | Date: Oct 30, 2020 | Quality: 3.0 | Difficulty: 4.0 | Grade: B | Would Take Again: No
+She's a nitpicky grader when it comes to exams. You're never 100% confident if your answers satisfies her. Even if your answer is almost correct she may refuse partial credit. She grades written responses open ended. One small mistake and she deducts a lot. Your answer can't just be right, it has to be right specifically to her satisfaction.
+```
 
-**Chunk size:**
+**Chunk 2 — Source: bean_gordon_byu.txt**
+```
+Professor: Gordon Bean | School: Brigham Young University
+Course: CS235 | Date: Apr 24, 2025 | Quality: 5.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes
+This is the second class I have taken from Dr. Bean and there is a reason I keep coming back. Not only is he excellent at explaining new topics but he is also very willing to go back and explain things another way until everyone understands. Around 2 hw/week, unit progress checks, 1 midterm, and a final similar to progress checks.
+```
 
-**Overlap:**
+**Chunk 3 — Source: aljafer_hussain_suu.txt**
+```
+Professor: Hussain Aljafer | School: Southern Utah University
+Course: CS1400 | Date: Dec 7, 2020 | Quality: 1.0 | Difficulty: 4.0 | Would Take Again: No
+DON'T TAKE THIS CLASS WITH THIS PROFESSOR IF IT'S YOUR FIRST CODING CLASS AND YOU KNOW YOU ARE GOING TO NEED HELP. Very vague in his explanations, never touches everything that will be on the test, and if you ask him for help he always says he can't help because he would give away the answer. Made my semester so miserable.
+```
 
-**Why these choices fit your documents:**
+**Chunk 4 — Source: bassetti_seth_usu.txt**
+```
+Professor: Seth Bassetti | School: Utah State University
+Course: CS1400 | Date: Apr 8, 2025 | Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes
+Seth is awesome. Not only does he know his stuff, he explains it very well. He is a great presenter, super fun to listen to, and walks through examples in class. If you don't understand something, he takes time to explain it. If you're stuck on a project you can also visit him during office hours and he is happy to help you find and fix your bugs.
+```
 
-**Final chunk count:**
+**Chunk 5 — Source: kopta_daniel_uofu.txt**
+```
+Professor: Daniel Kopta | School: University of Utah
+Course: CS3810 | Date: Dec 13, 2025 | Quality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes
+I would say that Kopta has been the best professor I've had at the U. He's very knowledgeable and I'm happy he's the one teaching 3810. If it would be anyone else the class would be magnitudes more difficult. His lectures go into detail and he makes sure that you are understanding the material.
+```
 
 ---
 
 ## Embedding Model
 
-<!-- Name the embedding model you used and explain your choice.
-     Then answer: if you were deploying this system for real users and cost wasn't a constraint,
-     what tradeoffs would you weigh in choosing a different model?
-     Consider: context length limits, multilingual support, accuracy on domain-specific text,
-     latency, and local vs. API-hosted. -->
+**Model used:** `all-MiniLM-L6-v2` via sentence-transformers. Runs locally with no API key or rate limits. Produces 384-dimensional vectors using cosine similarity.
 
-**Model used:**
+**Why cosine similarity over euclidean distance:** Cosine similarity measures the angle between vectors rather than raw distance. This means meaning is preserved regardless of review length — a short and a long review about the same topic both point in the same direction semantically.
 
-**Production tradeoff reflection:**
+**Production tradeoffs:**
+- **Context length:** all-MiniLM-L6-v2 handles up to 256 tokens — sufficient for individual reviews. OpenAI's text-embedding-3-large supports up to 8191 tokens for longer documents.
+- **Multilingual support:** all-MiniLM-L6-v2 is English-only. A multilingual model like paraphrase-multilingual-MiniLM-L12-v2 would be needed for non-English content.
+- **Accuracy vs cost:** Larger API-based models like text-embedding-3-large produce higher quality embeddings but cost money per token and require internet connectivity.
+- **Latency:** Local models like all-MiniLM-L6-v2 are faster since there is no network call — important for responsive UI.
 
 ---
 
-## Grounded Generation
+## Retrieval Test Results
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
+**Query 1: "Is Erin Parker a tough grader?"**
 
-**System prompt grounding instruction:**
+| Result | Distance | Source | Relevant? |
+|--------|----------|--------|-----------|
+| 1 | 0.314 | Erin Parker, U of U, CS2100 | ✅ Yes — discusses grading style |
+| 2 | 0.327 | Erin Parker, U of U, CS2420 | ✅ Yes — calls grading "arbitrary and harsh" |
+| 3 | 0.335 | Erin Parker, U of U, CS2420 | ✅ Yes — "nitpicky grader" who refuses partial credit |
+| 4 | 0.339 | Erin Parker, U of U, CS3810 | ✅ Yes — discusses class difficulty |
+| 5 | 0.339 | Erin Parker, U of U, CS1410 | ✅ Yes — mentions high standards |
 
-**How source attribution is surfaced in the response:**
+All 5 results are about Erin Parker and discuss grading. Distances well below 0.5 indicate strong semantic matches. The retrieval correctly found chunks about grading even when using different words like "nitpicky," "harsh," and "arbitrary."
+
+**Query 2: "Which professor should I avoid at SUU?"**
+
+| Result | Distance | Source | Relevant? |
+|--------|----------|--------|-----------|
+| 1 | 0.400 | Prosenjit Chatterjee, SUU | ❌ No — positive review |
+| 2 | 0.411 | Nathan Barker, SUU | ❌ No — positive review |
+| 3 | 0.482 | Nathan Barker, SUU | ❌ No — positive review |
+| 4 | 0.486 | Aditya Bhaskara, U of U | ❌ No — wrong school |
+| 5 | 0.502 | Erik Falor, Utah State | ❌ No — wrong school |
+
+Retrieval failed here. The system found SUU professors but returned positive reviews rather than negative ones. The word "avoid" does not appear in negative reviews — students use words like "don't take" or "terrible" instead — so the semantic match found the wrong sentiment. This is the documented failure case (see below).
+
+**Query 3: "What is Gordon Bean like as a professor?"**
+
+| Result | Distance | Source | Relevant? |
+|--------|----------|--------|-----------|
+| 1 | 0.228 | Gordon Bean, BYU | ✅ Yes |
+| 2 | 0.256 | Gordon Bean, BYU | ✅ Yes |
+| 3 | 0.264 | Gordon Bean, BYU | ✅ Yes |
+| 4 | 0.271 | Gordon Bean, BYU | ✅ Yes |
+| 5 | 0.277 | Gordon Bean, BYU | ✅ Yes |
+
+Perfect retrieval. Distances of 0.228–0.277 are the lowest observed, indicating very strong matches. Specific professor name queries produce the best retrieval results.
+
+---
+
+## How Grounded Generation is Enforced
+
+Grounding is enforced through the system prompt passed to the LLM before every query. The prompt explicitly instructs the model to answer only from retrieved chunks and to refuse questions not covered by the documents:
+
+```
+You are a helpful assistant for students researching CS professors at Utah universities.
+
+Answer the user's question using ONLY the information provided in the documents below.
+Do NOT use any outside knowledge or make assumptions beyond what the documents say.
+If the documents don't contain enough information to answer the question, say exactly:
+'I don't have enough information in my documents to answer that question.'
+
+Always cite which professor and school your answer draws from.
+```
+
+The retrieved chunks are passed directly in the user prompt as numbered documents. The LLM cannot reference anything outside those chunks.
+
+---
+
+## Example Responses
+
+**Example 1 — Grounded response with citation (Q4: Seth Bassetti)**
+
+*Question:* What should I know before taking Professor Seth Bassetti and what study strategies should I use?
+
+*Response:*
+> According to the documents, before taking Professor Seth Bassetti's class (CS1400) at Utah State University, you should know that his lectures can be very fast (Document 1) and sometimes may not directly align with assignment requirements (Document 3), so it's essential to stay engaged and ask questions (Document 1). The homework and assignments can take a significant amount of time each week (Documents 3 and 4), but they are considered interesting and not busywork (Document 4). His exams can be hard (Document 1), but he offers extra credit opportunities (Document 1). As for study strategies: asking questions is key to success (Document 1), being prepared to dedicate plenty of time towards weekly assignments is crucial (Document 3), and staying engaged and keeping up with the lectures is important as the pacing of the class is considered good (Document 2).
+
+*Sources:* Seth Bassetti (Utah State University)
+
+**Accuracy:** ✅ Accurate — matches expected answer from planning.md
+
+---
+
+**Example 2 — Out of scope refusal**
+
+*Question:* What is the best restaurant near SUU campus?
+
+*Response:*
+> I don't have enough information in my documents to answer that question.
+
+*Sources:* Vicki Allan, Nathan Barker, Prosenjit Chatterjee (retrieved but correctly ignored)
+
+**Accuracy:** ✅ System correctly refused to hallucinate an answer not in the documents.
+
+---
+
+## Query Interface
+
+**Interface type:** Gradio web UI running at http://127.0.0.1:7860
+
+**Input fields:**
+- *Your Question* — a text box where users type their question in plain language. Supports pressing Enter or clicking the Ask button to submit.
+
+**Output fields:**
+- *Answer* — the LLM-generated grounded response citing specific documents
+- *Sources* — bullet list of professor names and schools the answer drew from
+
+**Sample interaction transcript:**
+
+```
+User: Is Erin Parker a tough grader?
+
+Answer: Yes, Erin Parker is a tough grader. This is mentioned in multiple 
+documents, including Document 1, where a student mentions that she is a 
+"nitpicky grader" and you will lose lots of points for skipping minor steps 
+(Professor Erin Parker, University of Utah, CS2100). Similarly, Document 2 
+states that her grading scheme is "arbitrary and harsh" (CS2420), and 
+Document 3 notes that she is a "nitpicky grader" who may refuse partial 
+credit even if an answer is almost correct (CS2420).
+
+Sources: • Erin Parker (University of Utah)
+```
 
 ---
 
 ## Evaluation Report
 
-<!-- Run your 5 test questions from planning.md through your system and record the results.
-     Be honest — a partially accurate or inaccurate result that you explain well is more
-     valuable than a suspiciously perfect result. -->
-
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
+| # | Question | Expected Answer | System Response | Accuracy |
+|---|----------|----------------|-----------------|----------|
+| Q1 | Which CS professor should I avoid at SUU and why? | Hussain Aljafer — tests on untaught material, low exam averages, refuses to help | "I don't have enough information in my documents to answer that question." | ❌ Inaccurate |
+| Q2 | Who is the best CS professor at BYU if you care about learning the material? | Gordon Bean — clear explanations, re-explains until everyone understands, 93% would take again | Correctly identified Gordon Bean and Cory Barker as highly praised BYU professors, with Bean specifically called "hands down best CS professor you can pick at any level" | ✅ Accurate |
+| Q3 | Which CS professors should I take at University of Utah for an easy A? | None — all four are known for heavy workloads and tough grading | Said "I don't have enough information" then incorrectly mentioned Erik Falor from Utah State (wrong school) as an easy option | ⚠️ Partially accurate |
+| Q4 | What should I know before taking Professor Seth Bassetti and what study strategies should I use? | Fast lectures, open note exams, start projects early, accessible office hours, ask questions | Correctly identified fast lectures, hard exams, extra credit, time-consuming assignments, and recommended asking questions and staying engaged | ✅ Accurate |
+| Q5 | Based on student reviews, which CS department has the most consistently positive reviews — BYU or Utah State? | Expected partial failure | Gave a reasonable answer: BYU has more consistently positive reviews based on Gordon Bean and Cory Barker, while Utah State shows mixed reviews for Vicki Allan | ⚠️ Partially accurate |
 
 ---
 
-## Failure Case Analysis
+## Failure Case
 
-<!-- Identify at least one question where retrieval or generation did not work as expected.
-     Write a specific explanation of *why* it failed, tied to a part of the pipeline.
+**Q1 — "Which CS professor should I avoid at SUU and why?"**
 
-     "The answer was wrong" is not an explanation.
+The system returned "I don't have enough information" despite having 13 reviews about Hussain Aljafer, many of which are strongly negative.
 
-     "The relevant information was split across a chunk boundary, so retrieval returned
-     only half the context — the model didn't have enough to answer correctly" is an explanation.
+**Why it failed — retrieval failure caused by sentiment mismatch:**
 
-     "The embedding model treated the professor's nickname as out-of-vocabulary and returned
-     results from an unrelated review" is an explanation. -->
+The embedding model matched on "SUU professor" semantics but has no concept of implied negative sentiment. The word "avoid" does not appear in negative reviews — students use language like "don't take this class," "terrible professor," or "made my semester miserable." Meanwhile, positive reviews about SUU professors (Chatterjee, Nathan Barker) mention SUU prominently and scored higher cosine similarity to the query than Aljafer's negative reviews. The top 5 retrieved chunks were all positive reviews, so the LLM correctly refused to answer "who to avoid" from positive evidence — but this meant the right professor was never surfaced.
 
-**Question that failed:**
-
-**What the system returned:**
-
-**Root cause (tied to a specific pipeline stage):**
-
-**What you would change to fix it:**
+**Pipeline location:** This is a retrieval failure, not a generation failure. The LLM behaved correctly given the chunks it received. The fix would require either metadata filtering (filter by quality rating < 2.0) or hybrid search combining semantic search with keyword matching for sentiment words.
 
 ---
 
 ## Spec Reflection
 
-<!-- Reflect on how planning.md shaped your implementation.
-     Answer both questions with at least 2–3 sentences each. -->
+**One way the spec helped:** The architecture diagram in planning.md was invaluable during implementation. Having the five stages — ingestion, chunking, embedding, retrieval, generation — clearly labeled with their tools made it obvious what to build next at every step. Rather than figuring out structure while coding, the diagram let me focus entirely on making each stage work correctly.
 
-**One way the spec helped you during implementation:**
-
-**One way your implementation diverged from the spec, and why:**
+**One way implementation diverged from the spec:** The original planning.md did not specify using cosine similarity explicitly in ChromaDB. During testing in Milestone 4, retrieval distances came back in the 0.6–0.7 range, which the assignment flagged as weak matches. After investigation we discovered ChromaDB defaults to squared L2 distance, not cosine similarity. Adding `metadata={"hnsw:space": "cosine"}` to the collection creation dropped distances to 0.2–0.4, dramatically improving retrieval quality. This was not anticipated in the spec but was caught by the chunk inspection step the assignment required.
 
 ---
 
 ## AI Usage
 
-<!-- Describe at least 2 specific instances where you used an AI tool during this project.
-     For each: what did you give the AI as input, what did it produce, and what did you
-     change, override, or direct differently?
+**Instance 1 — Chunking and ingestion code (ingest.py):**
+I prompted Claude with my Documents section, Chunking Strategy section, and a sample of my .txt file format showing the `--- REVIEWS ---` separator and blank-line-separated reviews. I asked it to implement a script that loads all 16 files and splits them into individual review chunks with metadata headers. Claude generated the `load_document()` and `chunk_reviews()` functions. I reviewed the output, ran it, and verified that chunk counts matched expected review counts per professor (e.g., Nathan Barker produced exactly 23 chunks matching his 23 reviews). I also added the 20-character minimum filter myself after noticing some very short fragments in the output.
 
-     "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
-     chunk_text(). It returned a function using a fixed character split. I overrode the
-     chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
-
-**Instance 1**
-
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
-
-**Instance 2**
-
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+**Instance 2 — Retrieval and generation code (embed.py and query.py):**
+I prompted Claude with my Retrieval Approach section and pipeline diagram and asked it to implement the embedding step using all-MiniLM-L6-v2 and ChromaDB, plus the retrieval and generation functions. Claude generated the initial code using L2 distance. After testing showed distances above 0.6, I identified the cosine similarity issue myself and directed Claude to update the collection creation with `hnsw:space: cosine`. I also wrote and refined the grounding system prompt myself to ensure it included explicit refusal language for out-of-scope questions, which Claude's initial version did not include strongly enough.
