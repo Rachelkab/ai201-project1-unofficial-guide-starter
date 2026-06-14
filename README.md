@@ -33,6 +33,10 @@ This kind of student knowledge is difficult to find through official channels be
 
 Documents were collected manually by copying review text from Rate My Professors into cleaned .txt files. This approach was chosen over scraping because RMP uses JavaScript rendering that blocks automated requests.
 
+**Document selection methodology:** A minimum of 12 reviews per professor was required to ensure sufficient data for meaningful retrieval. Diversity of opinions was deliberately prioritized over volume — for example, choosing a professor with 17 mixed reviews over one with 50+ strongly skewed positive reviews. This decision was made because diverse perspectives produce richer and more varied chunks for the embedding model to work with. A professor with 50 uniformly glowing reviews would produce semantically similar chunks that cluster together, reducing retrieval variety. Mixed reviews covering different aspects (grading, teaching style, exam difficulty, workload) give the system more distinct semantic signals to match against different query types.
+
+**Sampling bias note:** Professors in the dataset have vastly different review counts (13 to 181). Since the system always retrieves k=5 chunks regardless, professors with fewer reviews are over-represented per query. For Hussain Aljafer (13 reviews), 5 chunks represent 38% of his entire review history. For Erin Parker (181 reviews), 5 chunks represent only 2.7%. The LLM generates answers with equal confidence in both cases, which can be misleading for lesser-known professors with small sample sizes.
+
 ---
 
 ## Chunking Strategy and Reasoning
